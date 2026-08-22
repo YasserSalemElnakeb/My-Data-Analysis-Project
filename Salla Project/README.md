@@ -1,0 +1,11 @@
+---
+
+### 📊 Live Interactive Dashboard
+
+يمكنك تجربة واختبار لوحة التحكم التفاعلية بشكل مباشر عبر الرابط التالي:
+
+[![Power BI Live Demo](https://img.shields.io/badge/Power_BI-Live_Interactive_Dashboard-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/reportEmbed?reportId=c503ab5e-01d1-4fd3-9eef-c660194fffba&autoAuth=true&ctid=fa7e31a0-d802-442a-a11d-dd99271b08bb)
+
+🔗 **رابط مباشر للتقرير:** [Click Here to Open Salla Dashboard](https://app.powerbi.com/reportEmbed?reportId=c503ab5e-01d1-4fd3-9eef-c660194fffba&autoAuth=true&ctid=fa7e31a0-d802-442a-a11d-dd99271b08bb)
+
+---
