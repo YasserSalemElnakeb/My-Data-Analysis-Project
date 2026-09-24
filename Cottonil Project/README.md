@@ -90,7 +90,7 @@ Exploration → Insight → Investigation
 | Power BI | `1` |
 | DAX | `2` |
 | Power Query | `3` |
-| SQL | `4` |
+| Python | `4` |
 
 ### Why these tools matter
 
