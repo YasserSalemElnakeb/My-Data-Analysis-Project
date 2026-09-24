@@ -1,0 +1,77 @@
+# ============================================================
+# GitHub Linguist Configuration
+# My Data Analysis Portfolio
+# ============================================================
+
+# Keep normal text files recognized correctly
+* text=auto
+
+
+# ============================================================
+# PROGRAMMING LANGUAGES
+# ============================================================
+
+# Python
+*.py linguist-language=Python
+
+# SQL
+*.sql linguist-language=SQL
+
+# JavaScript
+*.js linguist-language=JavaScript
+
+# HTML
+*.html linguist-language=HTML
+
+# CSS
+*.css linguist-language=CSS
+
+
+# ============================================================
+# JUPYTER NOTEBOOKS
+# ============================================================
+
+# Keep notebooks classified as Python work
+*.ipynb linguist-language=Python
+
+
+# ============================================================
+# DATA FILES
+# ============================================================
+
+# Data files should not dominate the language statistics
+*.csv linguist-detectable=false
+*.tsv linguist-detectable=false
+
+# JSON configuration/data files
+*.json linguist-detectable=false
+
+
+# ============================================================
+# DATA ANALYTICS TOOLS
+# ============================================================
+
+# Main tools used in this portfolio:
+#
+# Python
+# SQL
+# Power BI
+# DAX
+# Power Query
+# Tableau
+# Microsoft Excel
+# VBA
+# Web Scraping
+# BeautifulSoup
+# Selenium
+#
+# NOTE:
+# Power BI, Excel and Tableau are tools rather than
+# GitHub-supported programming languages, so they are
+# documented here and in the README instead of being
+# artificially added to GitHub's Languages statistics.
+
+
+# ============================================================
+# END
+# ============================================================
