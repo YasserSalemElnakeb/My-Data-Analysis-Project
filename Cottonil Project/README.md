@@ -136,18 +136,6 @@ The main value of the project is the transformation from **raw or fragmented inf
 | **Workflow** | Preparation → Analysis → Visualization / Reporting |
 | **Decision Support** | Investigation of patterns, differences, and performance drivers |
 
----
-
-## 🚀 Project Links
-
-<div align="center">
-
-[**🚀 Live Demo**](https://app.powerbi.com/reportEmbed?reportId=1f06a878-1db2-4ce5-8ec3-0f374a8abf48&autoAuth=true&ctid=fa7e31a0-d802-442a-a11d-dd99271b08bb) &nbsp; [**💻 Source Code / Project Folder**](https://github.com/YasserSalemElnakeb/My-Data-Analysis-Project/tree/main/Cottonil%20Project)
-
-</div>
-
----
-
 ## 👨‍💻 About the Project Author
 
 **Yasser Salem** — Data Analyst & Power BI Developer
